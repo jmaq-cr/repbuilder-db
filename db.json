@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    { "id": 1, "name": "Platform 1" },
+    { "id": 2, "name": "Platform 2" },
+    { "id": 3, "name": "Platform 3" }
+  ],
+  "subplatforms": [
+    { "id": 1, "name": "Subplatform 1" },
+    { "id": 2, "name": "Subplatform 2" },
+    { "id": 3, "name": "Subplatform 3" }
+  ],
+  "templates": [
+    { "id": 1, "name": "Template 1" },
+    { "id": 2, "name": "Template 2" },
+    { "id": 3, "name": "Template 3" }
+  ]
+}
