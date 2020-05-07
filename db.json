@@ -14,9 +14,9 @@
     { "id": 2, "name": "Template 2" },
     { "id": 3, "name": "Template 3" }
   ],
-  "experiments": [
-    { "id": 1, "name": "Experiment 1" },
-    { "id": 2, "name": "Experiment 2" },
-    { "id": 3, "name": "Experiment 3" }
+  "subdirectories": [
+    { "id": 1, "name": "Sub Directory 1" },
+    { "id": 2, "name": "Sub Directory 2" },
+    { "id": 3, "name": "Sub Directory 3" }
   ]
 }
